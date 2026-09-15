@@ -154,7 +154,7 @@ export const systems: System[] = [
 
 // Contact placeholders — replace with real values before going live
 export const CONTACT = {
-  whatsapp: 'WHATSAPP_LINK_PLACEHOLDER',
+  whatsapp: 'https://wa.me/201095304313',
   phone: 'PHONE_NUMBER_PLACEHOLDER',
   email: 'EMAIL_PLACEHOLDER',
   facebook: 'FACEBOOK_LINK_PLACEHOLDER',

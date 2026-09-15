@@ -66,7 +66,7 @@ export default function Hero({ picked, onPick }: Props) {
               إيه الطريقة الأقرب ليك؟
             </p>
             <p className="text-ink-400 text-sm mb-5 text-right">
-              اختار واحدة وهنوصيلك بالنظام المناسب
+              اختار واحدة وهنرشحلك النظام المناسب
             </p>
 
             {/* Options */}
